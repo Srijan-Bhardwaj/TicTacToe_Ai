@@ -213,37 +213,12 @@ public class TicTacToe
 					if(result!=' '){
 						if(result=='t'){ System.out.println("Kitna bachoge jaaniii......");System.exit(0);}
 						else{
-							System.out.print("\nI ");
-							Thread.sleep(200);
-							System.out.print("W");
-							Thread.sleep(200);
-							System.out.print("O");
-							Thread.sleep(200);
-							System.out.print("N");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print("H");
-							Thread.sleep(200);
-							System.out.print("U");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("A");
-							Thread.sleep(200);
-							System.out.print("Y");
-							Thread.sleep(50);
-							System.out.print("!");
-							Thread.sleep(50);
-							System.out.print("!");
+							Syestem.out.println();
+							String str = "I WON....HURRAY!!";
+							for(int i=0;i<str.length();i++){
+								Thread.sleep(200);
+								System.out.print(str.charAt(i));
+							}
 						System.exit(0);
 						}
 					}
@@ -260,37 +235,13 @@ public class TicTacToe
 					if(result!=' '){
 						if(result=='t'){ System.out.println("Kitna bachoge jaaniii......");System.exit(0);}
 						else{
-							System.out.print("\nI ");
-							Thread.sleep(200);
-							System.out.print("W");
-							Thread.sleep(200);
-							System.out.print("O");
-							Thread.sleep(200);
-							System.out.print("N");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print("H");
-							Thread.sleep(200);
-							System.out.print("U");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("A");
-							Thread.sleep(200);
-							System.out.print("Y");
-							Thread.sleep(50);
-							System.out.print("!");
-							Thread.sleep(50);
-							System.out.print("!");
+							System.out.print("\n");
+							Syestem.out.println();
+							String str = "I WON....HURRAY!!";
+							for(int i=0;i<str.length();i++){
+								Thread.sleep(200);
+								System.out.print(str.charAt(i));
+							}
 						System.exit(0);
 						}
 					}
@@ -309,37 +260,13 @@ public class TicTacToe
 					if(result!=' '){
 						if(result=='t'){ System.out.println("Kitna bachoge jaaniii......");System.exit(0);}
 						else{
-							System.out.print("\nI ");
-							Thread.sleep(200);
-							System.out.print("W");
-							Thread.sleep(200);
-							System.out.print("O");
-							Thread.sleep(200);
-							System.out.print("N");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print("H");
-							Thread.sleep(200);
-							System.out.print("U");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("A");
-							Thread.sleep(200);
-							System.out.print("Y");
-							Thread.sleep(50);
-							System.out.print("!");
-							Thread.sleep(50);
-							System.out.print("!");
+							System.out.print("\n");
+							Syestem.out.println();
+							String str = "I WON....HURRAY!!";
+							for(int i=0;i<str.length();i++){
+								Thread.sleep(200);
+								System.out.print(str.charAt(i));
+							}
 						System.exit(0);
 						}
 					}
@@ -355,37 +282,13 @@ public class TicTacToe
 					if(result!=' '){
 						if(result=='t'){ System.out.println("Kitna bachoge jaaniii......");System.exit(0);}
 						else{
-							System.out.print("\nI ");
-							Thread.sleep(200);
-							System.out.print("W");
-							Thread.sleep(200);
-							System.out.print("O");
-							Thread.sleep(200);
-							System.out.print("N");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(100);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print(".");
-							Thread.sleep(200);
-							System.out.print("H");
-							Thread.sleep(200);
-							System.out.print("U");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("R");
-							Thread.sleep(200);
-							System.out.print("A");
-							Thread.sleep(200);
-							System.out.print("Y");
-							Thread.sleep(50);
-							System.out.print("!");
-							Thread.sleep(50);
-							System.out.print("!");
+							System.out.print("\n");
+							Syestem.out.println();
+							String str = "I WON....HURRAY!!";
+							for(int i=0;i<str.length();i++){
+								Thread.sleep(200);
+								System.out.print(str.charAt(i));
+							}
 						System.exit(0);
 						}
 					}
